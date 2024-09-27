@@ -2,9 +2,9 @@
 <Site BuildName="(empty)"
 	BuildStamp="20240927-0840-Experimental"
 	Name="hussein"
-	Generator="ctest-3.16.3"
+	Generator="ctest-3.22.1"
 	CompilerName="/usr/bin/g++"
-	CompilerVersion="9.4.0"
+	CompilerVersion="11.4.0"
 	OSName="Linux"
 	Hostname="hussein"
 	OSRelease="5.15.0-119-generic"
@@ -21,14 +21,14 @@
 	TotalVirtualMemory="2047"
 	TotalPhysicalMemory="15862"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="2880.16"
+	ProcessorClockFrequency="2600"
 	>
 	<Testing>
-		<StartDateTime>Sep 27 11:40 EEST</StartDateTime>
-		<StartTestTime>1727426435</StartTestTime>
+		<StartDateTime>Sep 27 13:04 EEST</StartDateTime>
+		<StartTestTime>1727431478</StartTestTime>
 		<TestList/>
-		<EndDateTime>Sep 27 11:40 EEST</EndDateTime>
-		<EndTestTime>1727426435</EndTestTime>
+		<EndDateTime>Sep 27 13:04 EEST</EndDateTime>
+		<EndTestTime>1727431478</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
