@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: package_1
+Description: Description of package_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

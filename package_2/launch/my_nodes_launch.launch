@@ -1,0 +1,5 @@
+<launch>
+    <node name="first_node" pkg="package_2" type="pid_controller.py" />
+
+</launch>
+
